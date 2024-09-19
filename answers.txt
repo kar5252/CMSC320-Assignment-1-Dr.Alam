@@ -1,0 +1,3 @@
+Q1: Why might be consider using git?
+
+Answer: It tracks the version history of code so one can see or edit older version in case something goes wrong with the current version.
