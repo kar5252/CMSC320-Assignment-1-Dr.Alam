@@ -1,3 +1,9 @@
+
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: One example could be the medical industry where to see the effects of a new drug on different groups of people. One can use data science and look through the data to see patients' responses to the drugs an see if they are related to each person's medical history, nutrition, socieoeconomic level, etc.
+
+Q1: Why might be consider using git?
+
+Answer: It tracks the version history of code so one can see or edit older version in case something goes wrong with the current version.
+
